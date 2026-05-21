@@ -1,7 +1,6 @@
 # SyntethicImageDetection
 Binary classifier for AI-generated image detection using CLIP feature extraction + SVM, Random Forest, MLP and Voting Ensemble — 96.72% accuracy on custom dataset.
 $ cat <<'DOCEOF' > /home/user/README.md
-# 🖼️ Fake Image Detection with CLIP + Classical ML
 
 **Bachelor's Thesis** — Università degli Studi Roma Tre  
 Department of Civil, Computer Science and Aeronautical Technologies Engineering  
