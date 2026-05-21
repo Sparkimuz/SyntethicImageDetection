@@ -1,0 +1,104 @@
+file,pred,classe,conf_%,proba_AI_%
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (1).jpg,0,REALE,55.12033796536575,44.879662034634244
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (7).jpg,0,REALE,53.3886879027595,53.3886879027595
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (5).jpg,0,REALE,79.2805456814202,20.719454318579814
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (6).jpg,0,REALE,87.38011032072941,12.619889679270605
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (4).jpg,0,REALE,85.47531673806625,14.524683261933752
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (2).jpg,0,REALE,59.65631040411873,59.65631040411873
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (3).jpg,0,REALE,90.49844249722409,9.501557502775903
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (8).jpg,0,REALE,65.94972885019088,34.05027114980911
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (9).jpg,0,REALE,99.47727093722163,0.5227290627783687
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (13).jpg,0,REALE,92.70143756013188,7.298562439868106
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (10).jpg,0,REALE,78.2206915657714,21.77930843422858
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (11).jpg,0,REALE,88.35097265863156,11.649027341368452
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (12).jpg,0,REALE,80.44698471859026,19.553015281409735
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (14).jpg,0,REALE,95.18005952433512,4.819940475664877
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (19).jpg,0,REALE,84.57198398512976,15.428016014870247
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (16).jpg,0,REALE,72.50987359944833,72.50987359944833
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (20).jpg,0,REALE,72.04571662717247,27.954283372827543
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (15).jpg,0,REALE,87.5304550278423,12.469544972157736
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (17).jpg,0,REALE,64.73053280313022,35.26946719686979
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (18).jpg,0,REALE,83.06630338737695,16.93369661262304
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (26).jpg,0,REALE,78.88622190282287,21.113778097177104
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (30).jpg,0,REALE,98.3460574027671,1.6539425972329123
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (31).jpg,0,REALE,78.00553849658384,21.994461503416172
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (29).jpg,0,REALE,94.7641255287782,5.235874471221798
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (23).jpg,0,REALE,58.3268384426195,58.3268384426195
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (27).jpg,0,REALE,67.23004161710425,32.769958382895744
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (22).jpg,0,REALE,65.98545581282058,65.98545581282058
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (28).jpg,0,REALE,93.15516696820953,6.844833031790462
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (33).jpg,1,AI,76.83718142042484,76.83718142042484
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (24).jpg,0,REALE,61.532388928025696,38.467611071974304
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (21).jpg,0,REALE,93.60076387100229,6.399236128997712
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (32).jpg,0,REALE,88.68030472559619,11.319695274403802
+/content/drive/MyDrive/Tesi/ImmaginiTest/images (25).jpg,0,REALE,83.80109727218311,16.19890272781691
+/content/drive/MyDrive/Tesi/ImmaginiTest/6f06580f-f3bd-4165-a619-6438b4e212f3.jpg,1,AI,82.06866014004,82.06866014004
+/content/drive/MyDrive/Tesi/ImmaginiTest/920b586e-84fa-4f4f-aac1-491f72279d0f.jpg,0,REALE,54.966473188960876,45.03352681103914
+/content/drive/MyDrive/Tesi/ImmaginiTest/f464169e-69e5-44aa-86d0-af811cc0ff79.jpg,0,REALE,64.82072458131664,64.82072458131664
+/content/drive/MyDrive/Tesi/ImmaginiTest/0f62053e-383d-4705-a288-b6c8a8f21216.jpg,1,AI,96.83025222017034,96.83025222017034
+/content/drive/MyDrive/Tesi/ImmaginiTest/40aca675-dfcb-4023-82c9-015e6b4d3f2f.jpg,0,REALE,54.95794102653173,45.042058973468265
+/content/drive/MyDrive/Tesi/ImmaginiTest/b71dfc05-25a9-41d0-8a1b-545cb283bb0d.jpg,0,REALE,79.12967987158846,20.870320128411542
+/content/drive/MyDrive/Tesi/ImmaginiTest/5bcc3128-ba2c-462c-87fe-1546f1386961.jpg,0,REALE,61.62864858533017,38.37135141466983
+/content/drive/MyDrive/Tesi/ImmaginiTest/01f16ed0-36cd-48ff-8f58-089a9477614c.jpg,1,AI,76.72749650435424,76.72749650435424
+/content/drive/MyDrive/Tesi/ImmaginiTest/7d7b5eb6-5b2d-4f4c-92c5-1adae738889f.jpg,0,REALE,63.9973575972918,36.002642402708204
+/content/drive/MyDrive/Tesi/ImmaginiTest/7f4113e8-8796-489b-8f47-00aafcd3beb6.jpg,1,AI,76.57019622700751,76.57019622700751
+/content/drive/MyDrive/Tesi/ImmaginiTest/e1c4e2c7-6945-426b-9365-a08b63bdc89e.jpg,1,AI,87.03169383871803,87.03169383871803
+/content/drive/MyDrive/Tesi/ImmaginiTest/111ebaeb-2823-4d67-bcb3-809877741501.jpg,1,AI,92.06381409636293,92.06381409636293
+/content/drive/MyDrive/Tesi/ImmaginiTest/0c506559-101d-41e6-9fe8-2478e6531606.jpg,0,REALE,85.11578732469393,14.884212675306074
+/content/drive/MyDrive/Tesi/ImmaginiTest/0e1bb2a7-16c5-4a54-a747-6868b378a5f6.jpg,0,REALE,55.164736655649925,44.835263344350075
+/content/drive/MyDrive/Tesi/ImmaginiTest/fa48501a-fcc4-4c0f-9bf6-426b479d3c78.jpg,0,REALE,77.88562660336052,22.114373396639483
+/content/drive/MyDrive/Tesi/ImmaginiTest/c38619a1-f580-4f0f-b41a-e3e21188c8a5.jpg,0,REALE,75.20633587209477,24.793664127905217
+/content/drive/MyDrive/Tesi/ImmaginiTest/ee12f6f8-299f-4355-b9ee-1a84e658076a.jpg,0,REALE,56.43059098409074,43.569409015909265
+/content/drive/MyDrive/Tesi/ImmaginiTest/afc5ae4a-c069-46c1-a8f0-b85b938be20a.jpg,1,AI,74.15551291624492,74.15551291624492
+/content/drive/MyDrive/Tesi/ImmaginiTest/46d33441-bc73-49c9-a81d-f6113d5f1007.jpg,1,AI,85.01674019751624,85.01674019751624
+/content/drive/MyDrive/Tesi/ImmaginiTest/1ebeaf93-ef87-4060-8c41-d0642888cf50.jpg,1,AI,85.06567608326674,85.06567608326674
+/content/drive/MyDrive/Tesi/ImmaginiTest/7eb4fcf5-c9e3-41a6-b201-9e4fc2f86b81.jpg,0,REALE,68.97195535235315,68.97195535235315
+/content/drive/MyDrive/Tesi/ImmaginiTest/74c2825a-72d4-45a1-9141-f584339cc120.jpg,0,REALE,50.78400100493933,50.78400100493933
+/content/drive/MyDrive/Tesi/ImmaginiTest/9358384c-c1a2-41c0-a9f7-37ee1e226162.jpg,0,REALE,79.56206950950492,20.43793049049505
+/content/drive/MyDrive/Tesi/ImmaginiTest/f6e8893d-5111-474d-9a79-7854e833e1b2.jpg,0,REALE,52.18678924928224,47.813210750717765
+/content/drive/MyDrive/Tesi/ImmaginiTest/26a86b17-b374-4ee1-a6ae-9572978a3d60.jpg,0,REALE,61.16479120790183,61.16479120790183
+/content/drive/MyDrive/Tesi/ImmaginiTest/ab3bb841-9c95-486e-bf1c-f285cc0fb8da.jpg,0,REALE,86.24082674247401,13.759173257525987
+/content/drive/MyDrive/Tesi/ImmaginiTest/746227ae-c124-4f21-a3d8-32a595234286.jpg,0,REALE,89.88386049493303,10.116139505066961
+/content/drive/MyDrive/Tesi/ImmaginiTest/714b0658-6914-4437-8908-524f65023d6c.jpg,1,AI,87.65713788921458,87.65713788921458
+/content/drive/MyDrive/Tesi/ImmaginiTest/da7be08e-332d-45f0-a59e-44403cea891a.jpg,0,REALE,71.05900761282096,71.05900761282096
+/content/drive/MyDrive/Tesi/ImmaginiTest/4c2ae570-b1a5-4100-b198-6e1842069ac6.jpg,1,AI,79.0988903488769,79.0988903488769
+/content/drive/MyDrive/Tesi/ImmaginiTest/e4c5591b-b14a-445a-a76f-d3ac806a17aa.jpg,0,REALE,88.28298441413087,11.717015585869152
+/content/drive/MyDrive/Tesi/ImmaginiTest/80c87786-eb6d-429d-9370-fa667e8a4bf7.jpg,0,REALE,90.09230561422495,9.907694385775066
+/content/drive/MyDrive/Tesi/ImmaginiTest/1bd27655-95e3-4aae-8773-08fcf9eecab9.jpg,0,REALE,79.19108296741697,20.808917032583015
+/content/drive/MyDrive/Tesi/ImmaginiTest/24521cb5-d1d9-4e32-bcc5-619d57b66157.jpg,0,REALE,69.03977617053994,30.960223829460066
+/content/drive/MyDrive/Tesi/ImmaginiTest/2e1ece4c-0f62-40f8-b2c4-f55d91421140.jpg,0,REALE,53.198006251345554,46.80199374865443
+/content/drive/MyDrive/Tesi/ImmaginiTest/10787749-798d-4ec0-89dc-062020eb1084.jpg,0,REALE,72.89677287241157,27.103227127588426
+/content/drive/MyDrive/Tesi/ImmaginiTest/89d86386-0b3e-4587-b26b-25ece24f3eb2.jpg,0,REALE,51.92980527605263,51.92980527605263
+/content/drive/MyDrive/Tesi/ImmaginiTest/3a982992-f85b-408a-9665-ed08bba32b74.jpg,1,AI,87.98330025452175,87.98330025452175
+/content/drive/MyDrive/Tesi/ImmaginiTest/9a48b866-aa7c-4e80-b560-813c786e5a0b.jpg,1,AI,81.9477610437638,81.9477610437638
+/content/drive/MyDrive/Tesi/ImmaginiTest/0d08c9bf-4e19-4dde-88b8-1b71621addae.jpg,0,REALE,96.48003284610328,3.5199671538967134
+/content/drive/MyDrive/Tesi/ImmaginiTest/2963979a-ef9a-4d81-b11c-2b02e0b631f3.jpg,0,REALE,50.0,50.0
+/content/drive/MyDrive/Tesi/ImmaginiTest/70f00dba-f979-4dca-8e61-909179e4c1e9.jpg,1,AI,87.84578274229308,87.84578274229308
+/content/drive/MyDrive/Tesi/ImmaginiTest/782af782-cddb-43e7-aa7c-4ce1f816d869.jpg,0,REALE,72.41415035718933,72.41415035718933
+/content/drive/MyDrive/Tesi/ImmaginiTest/03970db3-f77d-4b1f-b869-6ccf7f1ee853.jpg,0,REALE,68.11092241563304,68.11092241563304
+/content/drive/MyDrive/Tesi/ImmaginiTest/dbfb39f4-af87-4596-b6f0-48efed0507dc.jpg,0,REALE,77.41379173710587,22.586208262894132
+/content/drive/MyDrive/Tesi/ImmaginiTest/578fdc31-ce82-49ac-a47a-93658ff2297c.jpg,0,REALE,59.95759993521453,40.04240006478547
+/content/drive/MyDrive/Tesi/ImmaginiTest/03e2d66f-b393-4c56-91d9-060e2459b4eb.jpg,0,REALE,50.912600870029124,49.08739912997089
+/content/drive/MyDrive/Tesi/ImmaginiTest/582385c4-db12-426b-8cf6-a0e8a9035c94.jpg,0,REALE,80.71005182617974,19.289948173820267
+/content/drive/MyDrive/Tesi/ImmaginiTest/953fa01d-b3e2-4812-928f-e3c70f00205e.jpg,0,REALE,79.23767462008442,20.762325379915577
+/content/drive/MyDrive/Tesi/ImmaginiTest/330f3299-244a-42cc-bfd7-76d14cdc1327.jpg,0,REALE,59.432505929574205,59.432505929574205
+/content/drive/MyDrive/Tesi/ImmaginiTest/588144b8-f7d5-4509-a9b2-efa8ae5307c3.jpg,0,REALE,87.29542529998523,12.704574700014785
+/content/drive/MyDrive/Tesi/ImmaginiTest/1633635f-10fd-4019-817e-defb1c1b5631.jpg,0,REALE,50.51337335982957,50.51337335982957
+/content/drive/MyDrive/Tesi/ImmaginiTest/db94a950-7316-41cf-a4b2-22ca1c66aeff.jpg,0,REALE,50.0,50.0
+/content/drive/MyDrive/Tesi/ImmaginiTest/5739b4b5-0ac3-478c-9465-9a0cf211a794.jpg,0,REALE,71.35621038525677,71.35621038525677
+/content/drive/MyDrive/Tesi/ImmaginiTest/09fe537b-4ede-4eb9-b331-fa4f4d927228.jpg,0,REALE,84.05406308390258,15.945936916097429
+/content/drive/MyDrive/Tesi/ImmaginiTest/18534fd9-5c6a-47b7-80e2-22990b2209f2.jpg,1,AI,75.28785285023804,75.28785285023804
+/content/drive/MyDrive/Tesi/ImmaginiTest/e542e135-55df-41cc-a195-e69ed599dd28.jpg,1,AI,92.60426357225515,92.60426357225515
+/content/drive/MyDrive/Tesi/ImmaginiTest/6aab45c9-4a08-44ba-bc04-bbc6831908e5.jpg,0,REALE,78.39275417468113,21.60724582531886
+/content/drive/MyDrive/Tesi/ImmaginiTest/2f33c156-e1e4-4cba-94e1-c5b20fa7ed7f.jpg,0,REALE,73.8337134148839,26.166286585116094
+/content/drive/MyDrive/Tesi/ImmaginiTest/91c8e039-fb4f-471b-9710-e922ae4300f9.jpg,0,REALE,61.724641309352,38.27535869064801
+/content/drive/MyDrive/Tesi/ImmaginiTest/f219be5d-8bb3-4f03-bcd6-72686b10f314.jpg,0,REALE,77.3353835404388,22.6646164595612
+/content/drive/MyDrive/Tesi/ImmaginiTest/ea139f4a-0f22-4e6a-bc37-8029eedb5a5c.jpg,1,AI,87.08725455497213,87.08725455497213
+/content/drive/MyDrive/Tesi/ImmaginiTest/08599998-95f2-47b1-bd59-5151d30c1390.jpg,0,REALE,72.49787868973544,27.502121310264556
+/content/drive/MyDrive/Tesi/ImmaginiTest/f25ccd20-8a13-47c2-a8c0-12ed66496234.jpg,0,REALE,56.91635777139591,56.91635777139591
+/content/drive/MyDrive/Tesi/ImmaginiTest/18450780-9a1b-411b-baf8-a3e1268d7467.jpg,0,REALE,71.418815804555,28.58118419544497
+/content/drive/MyDrive/Tesi/ImmaginiTest/abaf439a-a447-4c36-b7df-07971b72f2ed.jpg,0,REALE,55.95302536931699,55.95302536931699
+/content/drive/MyDrive/Tesi/ImmaginiTest/a55a35b5-5f4c-44b5-ae79-de60611f498c.jpg,0,REALE,87.47541631937361,12.524583680626359
+/content/drive/MyDrive/Tesi/ImmaginiTest/8c080802-ef59-4c4a-92d3-4ef4001d5a0f.jpg,1,AI,92.57488366861135,92.57488366861135
+/content/drive/MyDrive/Tesi/ImmaginiTest/e13fc265-91e0-4e73-8c9a-61b733ff3ee7.jpg,0,REALE,89.59682117502388,10.40317882497609
+/content/drive/MyDrive/Tesi/ImmaginiTest/4dadc068-6f03-4221-af42-5cecc9fe35e0.jpg,0,REALE,61.999726622276974,61.999726622276974
