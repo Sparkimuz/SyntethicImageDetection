@@ -23,25 +23,26 @@ The core pipeline:
 ## 🗂️ Project Structure
 
 ```
-fake-image-detection/
-│
-├── notebooks/
-│   ├── Tesi_Parte2ML.ipynb           # ML classifiers training & evaluation
-│   ├── Tesi_DeepLearning.ipynb       # Deep learning comparison experiments
-│   └── Tesi_Demo_Riconoscimento.ipynb # Interactive Gradio demo
-│
-├── data/
-│   └── README.md                     # Dataset description and download instructions
-│
-├── models/
-│   └── scaler.pkl                    # Saved StandardScaler for inference
-│
-├── results/
-│   ├── confusion_matrix.png          # Confusion matrix – Voting Ensemble
-│   └── model_comparison.png          # Performance comparison chart
-│
+SyntethicImageDetection/
+├── README.md
 ├── requirements.txt
-└── README.md
+├── notebooks/
+│   ├── Tesi_Parte2ML.ipynb
+│   ├── Tesi_DeepLearning.ipynb
+│   └── Tesi_Demo_Riconoscimento.ipynb
+├── data/
+│   ├── README.md
+│   └── dataset_features.csv
+├── models/
+│   ├── modello_voting_ensemble.pkl
+│   ├── modello_svm_clip.pkl
+│   ├── modello_svm_ottimizzato_100.pkl
+│   ├── scaler.pkl
+│   └── best_params.txt
+└── results/
+    ├── risultati_confronto_modelli.csv
+    ├── risultati_test.csv
+    └── risultati_test_cartelle.csv
 ```
 
 ---
