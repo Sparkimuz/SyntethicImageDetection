@@ -1,6 +1,5 @@
 # SyntethicImageDetection
 Binary classifier for AI-generated image detection using CLIP feature extraction + SVM, Random Forest, MLP and Voting Ensemble — 96.72% accuracy on custom dataset.
-$ cat <<'DOCEOF' > /home/user/README.md
 
 **Bachelor's Thesis** — Università degli Studi Roma Tre  
 Department of Civil, Computer Science and Aeronautical Technologies Engineering  
@@ -135,5 +134,3 @@ If you use this work, please cite the original thesis.
 Bachelor's in Computer Engineering — Roma Tre University  
 📧 t.cenciotti@gmail.com  
 🔗 [GitHub](https://github.com/Sparkimuz)
-DOCEOF
-echo "Done"
